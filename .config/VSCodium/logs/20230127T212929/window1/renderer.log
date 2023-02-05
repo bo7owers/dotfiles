@@ -1,0 +1,4 @@
+2023-01-27 21:29:30.767 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.
+2023-01-27 21:29:31.650 [warning] [mainThreadStorage] large extension state detected (extensionId: antfu.iconify, global: true): 14554.1396484375kb. Consider to use 'storageUri' or 'globalStorageUri' to store this data on disk instead.
+2023-01-27 21:29:33.567 [info] [perf] Render performance baseline is 18ms
+2023-01-27 21:29:40.781 [error] Error while registering log channel file:///home/bo7owers/.config/VSCodium/logs/20230127T212929/userDataSync.log Timed out while waiting for file to be created

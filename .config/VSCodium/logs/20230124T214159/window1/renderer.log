@@ -1,0 +1,3 @@
+2023-01-24 21:42:00.178 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.
+2023-01-24 21:42:01.013 [warning] [mainThreadStorage] large extension state detected (extensionId: antfu.iconify, global: true): 14554.1396484375kb. Consider to use 'storageUri' or 'globalStorageUri' to store this data on disk instead.
+2023-01-24 21:42:02.780 [info] [perf] Render performance baseline is 30ms

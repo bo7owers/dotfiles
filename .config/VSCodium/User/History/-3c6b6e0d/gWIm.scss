@@ -1,0 +1,81 @@
+@use '../vars/colors' as c;
+@use '../mixins/var-backups' as v;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.65em;
+    @include v.cssVars(color, brand-black);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    @include v.cssVars(color, brand-blue);
+    line-height: 1.1em;
+    font-weight: 400;
+    text-align: center;
+}
+
+h {
+    &1 {
+        font-size: 2.25rem;
+    }
+    &2 {
+        font-size: 1.75rem;
+    }
+    &3 {
+        font-size: 1.625rem;
+    }
+    &4 {
+        font-size: 1.5rem;
+    }
+    &5 {
+        font-size: 1.125rem;
+    }
+    &6 {
+        font-size: 1.125rem;
+    }
+}
+
+p {
+    @include v.cssVars(color, brand-black);
+    font-size: 1.05rem;
+    line-height: 1.65em;
+}
+
+ul {
+    @include v.cssVars(color, brand-black);
+    font-size: 1.25rem;
+    line-height: 1.65em;
+    margin-left: 3rem;
+}
+
+a,
+.close,
+.hamburger i {
+    &:visited:not(.link):not(.skip-to-main) {
+        color: c.$visited;
+    }
+    &:hover:not(.link):not(.skip-to-main),
+    &:focus:not(.link):not(.skip-to-main),
+    &:focus-visible:not(.link):not(.skip-to-main) {
+        @include v.cssVars(outline-color, brand-blue);
+        @include v.cssVars(color, brand-blue);
+        outline-style: solid;
+        outline-offset: 0.1rem;
+        outline-width: 4px;
+        border-radius: 2px;
+        &:visited {
+            color: c.$visited;
+        }
+    }
+}
+
+// For primevue
+// .p-component {
+// 	font-family: 'Montserrat', sans-serif;
+// }

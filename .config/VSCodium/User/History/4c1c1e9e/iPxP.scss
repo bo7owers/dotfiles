@@ -1,0 +1,9 @@
+@use '../vars/colors' as c;
+::selection {
+    background-color: c.$brand-pink;
+    color: c.$solid-black;
+}
+
+body {
+    background: #fff;
+}

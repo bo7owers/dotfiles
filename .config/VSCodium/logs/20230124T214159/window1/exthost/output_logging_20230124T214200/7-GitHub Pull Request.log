@@ -1,0 +1,12 @@
+[Info] /home/bo7owers/.ssh/config: ENOENT: no such file or directory, open '/home/bo7owers/.ssh/config'
+[Info] Looking for git repository
+[Info] Found 0 repositories during activation
+[Info] Git repository found, initializing review manager and pr tree view.
+[Info] Registering git provider
+[Info] Review> Validate state in progress
+[Info] Review> Validating state...
+[Info] Found GitHub remote
+[Info] Review> no matching pull request metadata found for current branch 48-translate-tooltips
+[Info] Review> no matching pull request metadata found on GitHub for current branch 48-translate-tooltips
+[Info] Repo state for file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio changed.
+[Info] Repo file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio has already been setup.

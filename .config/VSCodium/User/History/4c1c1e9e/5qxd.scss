@@ -1,0 +1,8 @@
+@use '../vars/colors' as c;
+::selection {
+    background-color: c.$tertiary-color;
+}
+
+body {
+    background: #fff;
+}

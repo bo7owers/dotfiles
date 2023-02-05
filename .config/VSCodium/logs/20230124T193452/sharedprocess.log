@@ -1,0 +1,38 @@
+2023-01-24 19:34:53.509 [info] Starting worker process with pid 39609 (type: fileWatcher, window: 1).
+2023-01-24 19:34:56.561 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2023-01-24 19:34:56.562 [info] Getting Manifest... esbenp.prettier-vscode
+2023-01-24 19:34:56.562 [info] Getting Manifest... rust-lang.rust-analyzer
+2023-01-24 19:34:56.563 [info] Getting Manifest... vue.volar
+2023-01-24 19:34:58.508 [info] Installing extension: esbenp.prettier-vscode
+2023-01-24 19:34:58.513 [info] Installing extension: bradlc.vscode-tailwindcss
+2023-01-24 19:34:58.646 [info] Installing extension: vue.volar
+2023-01-24 19:34:59.892 [info] Installing extension: rust-lang.rust-analyzer
+2023-01-24 19:35:17.793 [info] Extracted extension to /home/bo7owers/.vscode-oss/extensions/.24668fa3-078f-4591-9ea7-c318b48ce0a8: bradlc.vscode-tailwindcss
+2023-01-24 19:35:17.801 [info] Renamed to /home/bo7owers/.vscode-oss/extensions/bradlc.vscode-tailwindcss-0.9.6-universal
+2023-01-24 19:35:17.802 [info] Extracting completed. bradlc.vscode-tailwindcss
+2023-01-24 19:35:17.812 [info] Extension installed successfully: bradlc.vscode-tailwindcss
+2023-01-24 19:35:17.836 [info] Marked extension as uninstalled bradlc.vscode-tailwindcss-0.9.4-universal
+2023-01-24 19:35:25.898 [info] Extracted extension to /home/bo7owers/.vscode-oss/extensions/.97b1e706-e3c3-4c96-9564-520a74597a51: vue.volar
+2023-01-24 19:35:25.905 [info] Renamed to /home/bo7owers/.vscode-oss/extensions/vue.volar-1.0.24-universal
+2023-01-24 19:35:25.907 [info] Extracting completed. vue.volar
+2023-01-24 19:35:25.916 [info] Extension installed successfully: vue.volar
+2023-01-24 19:35:25.935 [info] Marked extension as uninstalled vue.volar-1.0.22-universal
+2023-01-24 19:35:29.402 [info] Extracted extension to /home/bo7owers/.vscode-oss/extensions/.d31b1f8f-18eb-46ff-ac91-de5cb0d2f617: esbenp.prettier-vscode
+2023-01-24 19:35:29.410 [info] Renamed to /home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal
+2023-01-24 19:35:29.412 [info] Extracting completed. esbenp.prettier-vscode
+2023-01-24 19:35:29.420 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-01-24 19:35:29.432 [info] Marked extension as uninstalled esbenp.prettier-vscode-9.10.3-universal
+2023-01-24 19:36:23.305 [info] Extracted extension to /home/bo7owers/.vscode-oss/extensions/.ef52711e-2e86-46e8-b70f-f3f86c852370: rust-lang.rust-analyzer
+2023-01-24 19:36:23.321 [info] Renamed to /home/bo7owers/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1369-linux-x64
+2023-01-24 19:36:23.322 [info] Extracting completed. rust-lang.rust-analyzer
+2023-01-24 19:36:23.332 [info] Extension installed successfully: rust-lang.rust-analyzer
+2023-01-24 19:36:23.345 [info] Marked extension as uninstalled rust-lang.rust-analyzer-0.3.1348-linux-x64
+2023-01-24 19:48:49.690 [info] Uninstalling extension from the profile: lokalise.i18n-ally@2.8.1 vscode-userdata:/home/bo7owers/.vscode-oss/extensions/extensions.json
+2023-01-24 19:48:49.736 [info] Marked extension as uninstalled lokalise.i18n-ally-2.8.1-universal
+2023-01-24 19:48:49.782 [info] Successfully uninstalled extension from the profile lokalise.i18n-ally@2.8.1 vscode-userdata:/home/bo7owers/.vscode-oss/extensions/extensions.json
+2023-01-24 19:48:51.281 [info] Worker process with pid 39609 terminated normally (type: fileWatcher, window: 1).
+2023-01-24 19:48:52.181 [info] Starting worker process with pid 42578 (type: fileWatcher, window: 1).
+2023-01-24 19:49:01.852 [info] Getting Manifest... lokalise.i18n-ally
+2023-01-24 19:49:01.951 [info] Installing extension: lokalise.i18n-ally
+2023-01-24 19:49:02.082 [info] Removed the extension from uninstalled list: lokalise.i18n-ally
+2023-01-24 19:49:02.098 [info] Extension installed successfully: lokalise.i18n-ally

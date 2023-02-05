@@ -1,0 +1,11 @@
+{
+    "Hello": "Hola",
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "programming": "Programación",
+    "contact": "Conectar conmigo",
+    "homeHeading": "Home titulo",
+    "aboutHeading": "About titulo",
+    "programmingHeading": "Programming titulo",
+    "ContactHeading": "Contact titulo"
+}

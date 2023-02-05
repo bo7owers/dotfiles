@@ -1,0 +1,66 @@
+🈶 Activated, v2.8.1
+
+――――――
+
+💼 Workspace root changed to "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio"
+📦 Packages file "package.json" found
+🕳 Packages file "pubspec.yaml" not exists
+🕳 Packages file "composer.json" not exists
+🕳 Packages file "Gemfile" not exists
+🌞 Enabled
+🧩 Enabled frameworks: Vue, General
+🧬 Enabled parsers: json, yaml, json5
+
+📈 Telemetry id: d675e3e1-f5dc-4e7d-bb96-729127dd18ab
+🚀 Initializing loader "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio"
+📂 Directory structure: file
+🗃 Path Matcher Regex: /^(?<locale>[\w-_]+)\.(?<ext>json|ya?ml|json5)$/
+
+📂 Loading locales under /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales
+	📑 Loading (en) en.json [1674613037381.5623]
+	📑 Loading (es) es.json [1674613146519.5112]
+	📑 Loading (fr) fr.json [1674613230228.6663]
+
+👀 Watching change on /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales
+✅ Loading finished
+
+
+――――――
+
+🔄 File changed (change) en.json
+	📑 Loading (en) en.json [1674697692634.8755]
+✅ Loading finished
+
+🔄 File changed (change) es.json
+	📑 Loading (es) es.json [1674697701219.1067]
+✅ Loading finished
+
+🔄 File changed (change) es.json
+	📑 Loading (es) es.json [1674697709359.326]
+✅ Loading finished
+
+🔄 File changed (change) fr.json
+	📑 Loading (fr) fr.json [1674697725787.7683]
+✅ Loading finished
+
+🔄 File changed (change) en.json
+	📑 Loading (en) en.json [1674698044321.8496]
+🔄 File changed (change) es.json
+🔄 File changed (change) fr.json
+✅ Loading finished
+
+	📑 Loading (es) es.json [1674698044321.8496]
+	📑 Loading (fr) fr.json [1674698044321.8496]
+✅ Loading finished
+
+🔄 File changed (change) en.json
+	📑 Loading (en) en.json [1674698063778.2832]
+🔄 File changed (change) es.json
+🔄 File changed (change) fr.json
+✅ Loading finished
+
+	📑 Loading (es) es.json [1674698063778.2832]
+	📑 Loading (fr) fr.json [1674698063778.2832]
+✅ Loading finished
+
+🈚 Deactivated

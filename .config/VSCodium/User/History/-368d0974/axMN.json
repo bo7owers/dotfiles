@@ -1,0 +1,14 @@
+{
+    "Hello": "Bonjour",
+    "home": "Accueil",
+    "about": "À propos",
+    "programming": "Programmation",
+    "contact": "Contactez-moi",
+    "homeHeading": "Accueil titre",
+    "aboutHeading": "À propos titre",
+    "programmingHeading": "Programmation titre",
+    "ContactHeading": "Contactez-moi titre",
+    "getInTouch": "Contactez-moi à",
+    "madeIn": "Créé en",
+    "by": "par"
+}

@@ -1,0 +1,23 @@
+@use '../mixins/breakpoints' as b;
+
+.container {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: 0.5fr 1fr 0.5fr;
+    grid-template-rows: 1fr 1fr;
+
+    .row {
+        &-center {
+            grid-column: 2 / 3;
+        }
+        &-flex {
+            display: flex;
+            flex-flow: column wrap;
+            align-items: center;
+        }
+    }
+
+    .grid-footer {
+        grid-row: 2 / 3;
+    }
+}

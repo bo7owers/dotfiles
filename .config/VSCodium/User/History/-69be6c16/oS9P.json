@@ -1,0 +1,17 @@
+{
+    "Hello": "Hola",
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "programming": "Programación",
+    "contact": "Conectar conmigo",
+    "homeHeading": "Inicio titulo",
+    "aboutHeading": "Sobre mí titulo",
+    "programmingHeading": "Programación titulo",
+    "ContactHeading": "Contacto titulo",
+    "getInTouch": "Contáctame",
+    "madeIn": "Hecho en",
+    "by": "por",
+    "mastoLink": "Perfil de Mastodon de René Torres (Abrir enlace en otra pestaña)",
+    "ghLink": "Perfil de GitHub de René Torres (Abrir enlace en otra pestaña)",
+    "linkedLink": "Perfil de LinkedIn de René Torres (Abrir enlace en otra pestaña)"
+}

@@ -1,0 +1,4567 @@
+["INFO" - 7:48:53 p.m.] Extension Name: esbenp.prettier-vscode.
+["INFO" - 7:48:53 p.m.] Extension Version: 9.10.4.
+["INFO" - 7:49:04 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.vscode/settings.json
+["INFO" - 7:49:04 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:49:04 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 7:49:04 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:49:04 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.vscode/settings.json",
+  "parser": "json"
+}
+["INFO" - 7:49:04 p.m.] Formatting completed in 60ms.
+["INFO" - 7:49:20 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/en.json
+["INFO" - 7:49:20 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:49:20 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 7:49:20 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:49:20 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/en.json",
+  "parser": "json"
+}
+["INFO" - 7:49:20 p.m.] Formatting completed in 11ms.
+["INFO" - 7:50:21 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 7:50:21 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:50:21 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 7:50:21 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:50:21 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 7:50:21 p.m.] Formatting completed in 121ms.
+["INFO" - 7:50:25 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 7:50:25 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:50:25 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 7:50:25 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:50:25 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 7:50:25 p.m.] Formatting completed in 74ms.
+["INFO" - 7:50:35 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/en.json
+["INFO" - 7:50:35 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:50:35 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 7:50:35 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:50:35 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/en.json",
+  "parser": "json"
+}
+["INFO" - 7:50:35 p.m.] Formatting completed in 5ms.
+["INFO" - 7:50:47 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 7:50:47 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:50:47 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 7:50:47 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:50:47 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 7:50:47 p.m.] Formatting completed in 57ms.
+["INFO" - 7:50:50 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 7:50:50 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:50:50 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 7:50:50 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:50:50 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 7:50:50 p.m.] Formatting completed in 45ms.
+["INFO" - 7:50:56 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 7:50:56 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:50:56 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 7:50:56 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:50:56 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 7:50:56 p.m.] Formatting completed in 43ms.
+["INFO" - 7:50:58 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 7:50:58 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:50:58 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 7:50:58 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:50:58 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 7:50:58 p.m.] Formatting completed in 47ms.
+["INFO" - 7:51:09 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 7:51:09 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:51:09 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 7:51:09 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:51:09 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 7:51:09 p.m.] Formatting completed in 73ms.
+["INFO" - 7:51:46 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 7:51:46 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:51:46 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 7:51:46 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:51:46 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 7:51:46 p.m.] Formatting completed in 73ms.
+["INFO" - 7:52:04 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 7:52:04 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:52:04 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 7:52:04 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:52:04 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 7:52:04 p.m.] Formatting completed in 54ms.
+["INFO" - 7:52:25 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 7:52:25 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:52:25 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 7:52:25 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:52:25 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 7:52:25 p.m.] Formatting completed in 41ms.
+["INFO" - 7:53:50 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/main.ts
+["INFO" - 7:53:50 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:53:50 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 7:53:50 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:53:50 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/main.ts",
+  "parser": "typescript"
+}
+["INFO" - 7:53:50 p.m.] Formatting completed in 126ms.
+["INFO" - 7:53:55 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/main.ts
+["INFO" - 7:53:55 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:53:55 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 7:53:55 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:53:55 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/main.ts",
+  "parser": "typescript"
+}
+["INFO" - 7:53:55 p.m.] Formatting completed in 17ms.
+["INFO" - 7:53:59 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/main.ts
+["INFO" - 7:53:59 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:53:59 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 7:53:59 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:53:59 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/main.ts",
+  "parser": "typescript"
+}
+["INFO" - 7:53:59 p.m.] Formatting completed in 15ms.
+["INFO" - 7:54:04 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/main.ts
+["INFO" - 7:54:04 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:54:04 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 7:54:04 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:54:04 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/main.ts",
+  "parser": "typescript"
+}
+["INFO" - 7:54:04 p.m.] Formatting completed in 11ms.
+["INFO" - 7:54:14 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/main.ts
+["INFO" - 7:54:14 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:54:14 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 7:54:14 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:54:14 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/main.ts",
+  "parser": "typescript"
+}
+["INFO" - 7:54:14 p.m.] Formatting completed in 12ms.
+["INFO" - 7:54:36 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 7:54:36 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:54:36 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 7:54:36 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:54:36 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 7:54:36 p.m.] Formatting completed in 79ms.
+["INFO" - 7:54:55 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 7:54:55 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:54:55 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 7:54:55 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:54:55 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 7:54:55 p.m.] Formatting completed in 66ms.
+["INFO" - 7:55:39 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/main.ts
+["INFO" - 7:55:39 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:55:39 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 7:55:39 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:55:39 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/main.ts",
+  "parser": "typescript"
+}
+["INFO" - 7:55:39 p.m.] Formatting completed in 10ms.
+["INFO" - 7:58:20 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/main.ts
+["INFO" - 7:58:20 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 7:58:20 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 7:58:20 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:58:20 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/main.ts",
+  "parser": "typescript"
+}
+["INFO" - 7:58:20 p.m.] Formatting completed in 9ms.
+["INFO" - 8:00:30 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:00:30 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:00:30 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:00:30 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:00:30 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:00:30 p.m.] Formatting completed in 56ms.
+["INFO" - 8:00:51 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:00:51 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:00:51 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:00:51 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:00:51 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:00:51 p.m.] Formatting completed in 44ms.
+["INFO" - 8:01:07 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:01:07 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:01:07 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:01:07 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:01:07 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:01:07 p.m.] Formatting completed in 54ms.
+["INFO" - 8:01:37 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:01:37 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:01:37 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:01:37 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:01:37 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:01:38 p.m.] Formatting completed in 52ms.
+["INFO" - 8:01:57 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:01:57 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:01:57 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:01:57 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:01:57 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:01:57 p.m.] Formatting completed in 38ms.
+["INFO" - 8:02:10 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:02:10 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:02:10 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:02:10 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:02:10 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:02:10 p.m.] Formatting completed in 46ms.
+["INFO" - 8:02:51 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:02:51 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:02:51 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:02:51 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:02:51 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:02:51 p.m.] Formatting completed in 51ms.
+["INFO" - 8:02:52 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:02:52 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:02:52 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:02:52 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:02:52 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:02:52 p.m.] Formatting completed in 41ms.
+["INFO" - 8:02:59 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:02:59 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:02:59 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:02:59 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:02:59 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:02:59 p.m.] Formatting completed in 29ms.
+["INFO" - 8:03:32 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:03:32 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:03:32 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:03:32 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:03:32 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:03:32 p.m.] Formatting completed in 54ms.
+["INFO" - 8:03:43 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:03:43 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:03:43 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:03:43 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:03:43 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:03:43 p.m.] Formatting completed in 37ms.
+["INFO" - 8:04:06 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:04:06 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:04:06 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:04:06 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:04:06 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:04:06 p.m.] Formatting completed in 53ms.
+["INFO" - 8:04:17 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:04:17 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:04:17 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:04:17 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:04:17 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:04:17 p.m.] Formatting completed in 48ms.
+["INFO" - 8:04:20 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:04:20 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:04:20 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:04:20 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:04:20 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:04:20 p.m.] Formatting completed in 29ms.
+["INFO" - 8:04:30 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/en.json
+["INFO" - 8:04:30 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:04:30 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:04:30 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:04:30 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/en.json",
+  "parser": "json"
+}
+["INFO" - 8:04:30 p.m.] Formatting completed in 7ms.
+["INFO" - 8:04:39 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/en.json
+["INFO" - 8:04:39 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:04:39 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:04:39 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:04:39 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/en.json",
+  "parser": "json"
+}
+["INFO" - 8:04:39 p.m.] Formatting completed in 6ms.
+["INFO" - 8:04:41 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/en.json
+["INFO" - 8:04:41 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:04:41 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:04:41 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:04:41 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/en.json",
+  "parser": "json"
+}
+["INFO" - 8:04:41 p.m.] Formatting completed in 5ms.
+["INFO" - 8:04:57 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:04:57 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:04:57 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:04:57 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:04:57 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:04:57 p.m.] Formatting completed in 48ms.
+["INFO" - 8:05:16 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:05:16 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:05:16 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:05:16 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:05:16 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:05:16 p.m.] Formatting completed in 79ms.
+["INFO" - 8:05:25 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:05:25 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:05:25 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:05:25 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:05:25 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:05:25 p.m.] Formatting completed in 34ms.
+["INFO" - 8:06:48 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:06:48 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:06:48 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:06:48 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:06:48 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:06:48 p.m.] Formatting completed in 53ms.
+["INFO" - 8:06:54 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:06:54 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:06:54 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:06:54 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:06:54 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:06:54 p.m.] Formatting completed in 51ms.
+["INFO" - 8:07:22 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/fr.json
+["INFO" - 8:07:22 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:07:22 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:07:22 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:07:22 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/fr.json",
+  "parser": "json"
+}
+["INFO" - 8:07:22 p.m.] Formatting completed in 7ms.
+["INFO" - 8:08:58 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:08:58 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:08:58 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:08:58 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:08:58 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:08:58 p.m.] Formatting completed in 50ms.
+["INFO" - 8:09:40 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:09:40 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:09:40 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:09:40 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:09:40 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:09:40 p.m.] Formatting completed in 58ms.
+["INFO" - 8:10:17 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:10:17 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:10:17 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:10:17 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:10:17 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:10:17 p.m.] Formatting completed in 43ms.
+["INFO" - 8:10:24 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:10:24 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:10:24 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:10:24 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:10:24 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:10:24 p.m.] Formatting completed in 33ms.
+["INFO" - 8:10:58 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue
+["INFO" - 8:10:58 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:10:58 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:10:58 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:10:58 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Navigation.vue",
+  "parser": "vue"
+}
+["INFO" - 8:10:58 p.m.] Formatting completed in 47ms.
+["INFO" - 8:14:31 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/en.json
+["INFO" - 8:14:31 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:14:31 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:14:31 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:14:31 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/en.json",
+  "parser": "json"
+}
+["INFO" - 8:14:31 p.m.] Formatting completed in 6ms.
+["INFO" - 8:15:43 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/en.json
+["INFO" - 8:15:43 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:15:43 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:15:43 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:15:43 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/en.json",
+  "parser": "json"
+}
+["INFO" - 8:15:43 p.m.] Formatting completed in 5ms.
+["INFO" - 8:16:31 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/es.json
+["INFO" - 8:16:31 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:16:31 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:16:31 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:16:31 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/es.json",
+  "parser": "json"
+}
+["INFO" - 8:16:31 p.m.] Formatting completed in 5ms.
+["INFO" - 8:17:22 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/fr.json
+["INFO" - 8:17:22 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:17:22 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:17:22 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:17:22 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/fr.json",
+  "parser": "json"
+}
+["INFO" - 8:17:22 p.m.] Formatting completed in 7ms.
+["INFO" - 8:18:18 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/About.vue
+["INFO" - 8:18:18 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:18:18 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:18:18 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:18:18 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/About.vue",
+  "parser": "vue"
+}
+["INFO" - 8:18:18 p.m.] Formatting completed in 12ms.
+["INFO" - 8:18:45 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/About.vue
+["INFO" - 8:18:45 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:18:45 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:18:45 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:18:45 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/About.vue",
+  "parser": "vue"
+}
+["INFO" - 8:18:45 p.m.] Formatting completed in 8ms.
+["INFO" - 8:19:01 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/About.vue
+["INFO" - 8:19:01 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:19:01 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:19:01 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:19:01 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/About.vue",
+  "parser": "vue"
+}
+["INFO" - 8:19:01 p.m.] Formatting completed in 9ms.
+["INFO" - 8:19:18 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/Contact.vue
+["INFO" - 8:19:18 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:19:18 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:19:18 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:19:18 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/Contact.vue",
+  "parser": "vue"
+}
+["INFO" - 8:19:18 p.m.] Formatting completed in 7ms.
+["INFO" - 8:19:30 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/Contact.vue
+["INFO" - 8:19:30 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:19:30 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:19:30 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:19:30 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/Contact.vue",
+  "parser": "vue"
+}
+["INFO" - 8:19:30 p.m.] Formatting completed in 8ms.
+["INFO" - 8:19:45 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/Contact.vue
+["INFO" - 8:19:45 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:19:45 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:19:45 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:19:45 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/Contact.vue",
+  "parser": "vue"
+}
+["INFO" - 8:19:45 p.m.] Formatting completed in 8ms.
+["INFO" - 8:20:26 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/Home.vue
+["INFO" - 8:20:26 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:20:26 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:20:26 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:20:26 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/Home.vue",
+  "parser": "vue"
+}
+["INFO" - 8:20:26 p.m.] Formatting completed in 20ms.
+["INFO" - 8:20:53 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/Home.vue
+["INFO" - 8:20:53 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:20:53 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:20:53 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:20:53 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/Home.vue",
+  "parser": "vue"
+}
+["INFO" - 8:20:53 p.m.] Formatting completed in 19ms.
+["INFO" - 8:21:30 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/Programming.vue
+["INFO" - 8:21:30 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:21:30 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:21:30 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:21:30 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/Programming.vue",
+  "parser": "vue"
+}
+["INFO" - 8:21:30 p.m.] Formatting completed in 9ms.
+["INFO" - 8:21:42 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/Programming.vue
+["INFO" - 8:21:42 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:21:42 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:21:42 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:21:42 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/Programming.vue",
+  "parser": "vue"
+}
+["INFO" - 8:21:42 p.m.] Formatting completed in 11ms.
+["INFO" - 8:22:59 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.vscode/settings.json
+["INFO" - 8:22:59 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:22:59 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:22:59 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:22:59 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.vscode/settings.json",
+  "parser": "json"
+}
+["INFO" - 8:22:59 p.m.] Formatting completed in 7ms.
+["INFO" - 8:23:07 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.vscode/settings.json
+["INFO" - 8:23:07 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:23:07 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:23:07 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:23:07 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.vscode/settings.json",
+  "parser": "json"
+}
+["INFO" - 8:23:07 p.m.] Formatting completed in 7ms.
+["INFO" - 8:23:10 p.m.] Formatting vscode-userdata:/home/bo7owers/.config/VSCodium/User/settings.json
+["INFO" - 8:23:11 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:23:11 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:23:11 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/.config/VSCodium/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 8:23:11 p.m.] Formatting completed in 10ms.
+["INFO" - 8:23:15 p.m.] Formatting vscode-userdata:/home/bo7owers/.config/VSCodium/User/settings.json
+["INFO" - 8:23:15 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:23:15 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:23:15 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/.config/VSCodium/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 8:23:15 p.m.] Formatting completed in 5ms.
+["INFO" - 8:26:50 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/en.json
+["INFO" - 8:26:50 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:26:50 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:26:50 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:26:50 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/en.json",
+  "parser": "json"
+}
+["INFO" - 8:26:50 p.m.] Formatting completed in 7ms.
+["INFO" - 8:27:44 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/es.json
+["INFO" - 8:27:44 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:27:44 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:27:44 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:27:44 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/es.json",
+  "parser": "json"
+}
+["INFO" - 8:27:44 p.m.] Formatting completed in 5ms.
+["INFO" - 8:30:58 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/fr.json
+["INFO" - 8:30:58 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:30:58 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:30:58 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:30:58 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/fr.json",
+  "parser": "json"
+}
+["INFO" - 8:30:58 p.m.] Formatting completed in 7ms.
+["INFO" - 8:32:26 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/fr.json
+["INFO" - 8:32:26 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:32:26 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 8:32:26 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:32:26 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/fr.json",
+  "parser": "json"
+}
+["INFO" - 8:32:26 p.m.] Formatting completed in 5ms.
+["INFO" - 8:33:03 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 8:33:03 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:33:03 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:33:03 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:33:03 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 8:33:03 p.m.] Formatting completed in 49ms.
+["INFO" - 8:33:21 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 8:33:21 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:33:21 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:33:21 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:33:21 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 8:33:21 p.m.] Formatting completed in 27ms.
+["INFO" - 8:33:52 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 8:33:52 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:33:52 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:33:52 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:33:52 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 8:33:52 p.m.] Formatting completed in 27ms.
+["INFO" - 8:34:23 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 8:34:23 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:34:23 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:34:23 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:34:23 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 8:34:23 p.m.] Formatting completed in 19ms.
+["INFO" - 8:35:05 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 8:35:05 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:35:05 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:35:05 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:35:05 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 8:35:05 p.m.] Formatting completed in 35ms.
+["INFO" - 8:35:29 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 8:35:29 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:35:29 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:35:29 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:35:29 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 8:35:29 p.m.] Formatting completed in 26ms.
+["INFO" - 8:35:36 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 8:35:36 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:35:36 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:35:36 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:35:36 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 8:35:36 p.m.] Formatting completed in 18ms.
+["INFO" - 8:35:47 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 8:35:47 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:35:47 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:35:47 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:35:47 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 8:35:47 p.m.] Formatting completed in 26ms.
+["INFO" - 8:37:51 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 8:37:51 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:37:51 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:37:51 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:37:51 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 8:37:51 p.m.] Formatting completed in 25ms.
+["INFO" - 8:38:00 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 8:38:00 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:38:00 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:38:00 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:00 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 8:38:00 p.m.] Formatting completed in 14ms.
+["INFO" - 8:56:31 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 8:56:31 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:56:31 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:56:31 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:56:31 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 8:56:31 p.m.] Formatting completed in 23ms.
+["INFO" - 8:56:39 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 8:56:39 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:56:39 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:56:39 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:56:39 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 8:56:39 p.m.] Formatting completed in 19ms.
+["INFO" - 8:56:52 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 8:56:52 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 8:56:52 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 8:56:52 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:56:52 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 8:56:52 p.m.] Formatting completed in 25ms.
+["INFO" - 9:00:42 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:00:42 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:00:42 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:00:42 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:00:42 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:00:42 p.m.] Formatting completed in 39ms.
+["INFO" - 9:00:54 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:00:54 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:00:54 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:00:54 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:00:54 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:00:54 p.m.] Formatting completed in 31ms.
+["INFO" - 9:01:24 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:01:24 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:01:24 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:01:24 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:01:24 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:01:24 p.m.] Formatting completed in 22ms.
+["INFO" - 9:01:44 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:01:44 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:01:44 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:01:44 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:01:44 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:01:44 p.m.] Formatting completed in 22ms.
+["INFO" - 9:02:01 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:02:01 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:02:01 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:02:01 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:02:01 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:02:02 p.m.] Formatting completed in 25ms.
+["INFO" - 9:02:42 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:02:42 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:02:42 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:02:42 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:02:42 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:02:42 p.m.] Formatting completed in 22ms.
+["INFO" - 9:08:44 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:08:44 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:08:44 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:08:44 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:08:44 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:08:44 p.m.] Formatting completed in 29ms.
+["INFO" - 9:09:41 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:09:41 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:09:41 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:09:41 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:09:41 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:09:41 p.m.] Formatting completed in 22ms.
+["INFO" - 9:10:04 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:10:04 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:10:04 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:10:04 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:10:04 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:10:04 p.m.] Formatting completed in 22ms.
+["INFO" - 9:10:14 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:10:14 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:10:14 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:10:14 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:10:14 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:10:14 p.m.] Formatting completed in 21ms.
+["INFO" - 9:17:17 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/en.json
+["INFO" - 9:17:17 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:17:17 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 9:17:17 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:17:17 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/en.json",
+  "parser": "json"
+}
+["INFO" - 9:17:17 p.m.] Formatting completed in 8ms.
+["INFO" - 9:18:53 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/es.json
+["INFO" - 9:18:53 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:18:53 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 9:18:53 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:18:53 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/es.json",
+  "parser": "json"
+}
+["INFO" - 9:18:53 p.m.] Formatting completed in 7ms.
+["INFO" - 9:19:06 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/es.json
+["INFO" - 9:19:06 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:19:06 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 9:19:06 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:19:06 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/es.json",
+  "parser": "json"
+}
+["INFO" - 9:19:06 p.m.] Formatting completed in 8ms.
+["INFO" - 9:20:12 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/fr.json
+["INFO" - 9:20:12 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:20:12 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 9:20:12 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:20:12 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/fr.json",
+  "parser": "json"
+}
+["INFO" - 9:20:12 p.m.] Formatting completed in 7ms.
+["INFO" - 9:20:30 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/fr.json
+["INFO" - 9:20:30 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:20:30 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 9:20:30 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:20:30 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/locales/fr.json",
+  "parser": "json"
+}
+["INFO" - 9:20:30 p.m.] Formatting completed in 6ms.
+["INFO" - 9:21:25 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:21:25 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:21:25 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:21:25 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:21:25 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["ERROR" - 9:21:25 p.m.] Error formatting document.
+["ERROR" - 9:21:25 p.m.] Unexpected closing tag "a". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (40:13)
+  38 |                     />
+  39 |                 </svg>
+> 40 |             </a>
+     |             ^^^^
+  41 |             <a
+  42 |                 href="https://github.com/bo7owers"
+  43 |                 target="_blank"
+SyntaxError: Unexpected closing tag "a". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (40:13)
+  38 |                     />
+  39 |                 </svg>
+> 40 |             </a>
+     |             ^^^^
+  41 |             <a
+  42 |                 href="https://github.com/bo7owers"
+  43 |                 target="_blank"
+	at u (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/parser-html.js:4:2233)
+	at Zl (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/parser-html.js:36:6398)
+	at gs (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/parser-html.js:36:7902)
+	at Object.parse (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/parser-html.js:36:8674)
+	at Object.parse (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:7331:23)
+	at coreFormat (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:8645:18)
+	at formatWithCursor2 (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:8837:18)
+	at /home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:37832:12
+	at Object.format (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:37846:12)
+	at t.default.format (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/dist/extension.js:1:14731)
+	at async t.PrettierEditProvider.provideEdits (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/dist/extension.js:1:11417)
+	at async B.provideDocumentFormattingEdits (/snap/codium/289/usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:39719)
+["INFO" - 9:21:25 p.m.] Formatting completed in 22ms.
+["INFO" - 9:22:18 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:22:18 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:22:18 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:22:18 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:22:18 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["ERROR" - 9:22:18 p.m.] Error formatting document.
+["ERROR" - 9:22:18 p.m.] Unexpected closing tag "a". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (40:13)
+  38 |                     />
+  39 |                 </svg>
+> 40 |             </a>
+     |             ^^^^
+  41 |             <a
+  42 |                 href="https://github.com/bo7owers"
+  43 |                 target="_blank"
+SyntaxError: Unexpected closing tag "a". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (40:13)
+  38 |                     />
+  39 |                 </svg>
+> 40 |             </a>
+     |             ^^^^
+  41 |             <a
+  42 |                 href="https://github.com/bo7owers"
+  43 |                 target="_blank"
+	at u (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/parser-html.js:4:2233)
+	at Zl (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/parser-html.js:36:6398)
+	at gs (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/parser-html.js:36:7902)
+	at Object.parse (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/parser-html.js:36:8674)
+	at Object.parse (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:7331:23)
+	at coreFormat (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:8645:18)
+	at formatWithCursor2 (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:8837:18)
+	at /home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:37832:12
+	at Object.format (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:37846:12)
+	at t.default.format (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/dist/extension.js:1:14731)
+	at async t.PrettierEditProvider.provideEdits (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/dist/extension.js:1:11417)
+	at async B.provideDocumentFormattingEdits (/snap/codium/289/usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:39719)
+["INFO" - 9:22:18 p.m.] Formatting completed in 10ms.
+["INFO" - 9:22:34 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:22:34 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:22:34 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:22:34 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:22:34 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["ERROR" - 9:22:34 p.m.] Error formatting document.
+["ERROR" - 9:22:34 p.m.] Unexpected closing tag "a". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (40:13)
+  38 |                     />
+  39 |                 </svg>
+> 40 |             </a>
+     |             ^^^^
+  41 |             <a
+  42 |                 href="https://github.com/bo7owers"
+  43 |                 target="_blank"
+SyntaxError: Unexpected closing tag "a". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (40:13)
+  38 |                     />
+  39 |                 </svg>
+> 40 |             </a>
+     |             ^^^^
+  41 |             <a
+  42 |                 href="https://github.com/bo7owers"
+  43 |                 target="_blank"
+	at u (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/parser-html.js:4:2233)
+	at Zl (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/parser-html.js:36:6398)
+	at gs (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/parser-html.js:36:7902)
+	at Object.parse (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/parser-html.js:36:8674)
+	at Object.parse (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:7331:23)
+	at coreFormat (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:8645:18)
+	at formatWithCursor2 (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:8837:18)
+	at /home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:37832:12
+	at Object.format (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:37846:12)
+	at t.default.format (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/dist/extension.js:1:14731)
+	at async t.PrettierEditProvider.provideEdits (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/dist/extension.js:1:11417)
+	at async B.provideDocumentFormattingEdits (/snap/codium/289/usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:39719)
+["INFO" - 9:22:34 p.m.] Formatting completed in 10ms.
+["INFO" - 9:22:54 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:22:54 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:22:54 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:22:54 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:22:54 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["ERROR" - 9:22:54 p.m.] Error formatting document.
+["ERROR" - 9:22:54 p.m.] Unexpected closing tag "a". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (40:13)
+  38 |                     />
+  39 |                 </svg>
+> 40 |             </a>
+     |             ^^^^
+  41 |             <a
+  42 |                 href="https://github.com/bo7owers"
+  43 |                 target="_blank"
+SyntaxError: Unexpected closing tag "a". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (40:13)
+  38 |                     />
+  39 |                 </svg>
+> 40 |             </a>
+     |             ^^^^
+  41 |             <a
+  42 |                 href="https://github.com/bo7owers"
+  43 |                 target="_blank"
+	at u (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/parser-html.js:4:2233)
+	at Zl (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/parser-html.js:36:6398)
+	at gs (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/parser-html.js:36:7902)
+	at Object.parse (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/parser-html.js:36:8674)
+	at Object.parse (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:7331:23)
+	at coreFormat (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:8645:18)
+	at formatWithCursor2 (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:8837:18)
+	at /home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:37832:12
+	at Object.format (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:37846:12)
+	at t.default.format (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/dist/extension.js:1:14731)
+	at async t.PrettierEditProvider.provideEdits (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/dist/extension.js:1:11417)
+	at async B.provideDocumentFormattingEdits (/snap/codium/289/usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:39719)
+["INFO" - 9:22:54 p.m.] Formatting completed in 9ms.
+["INFO" - 9:23:03 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:23:03 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:23:03 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:23:03 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:23:03 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["ERROR" - 9:23:03 p.m.] Error formatting document.
+["ERROR" - 9:23:03 p.m.] Unexpected closing tag "a". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (40:13)
+  38 |                     />
+  39 |                 </svg>
+> 40 |             </a>
+     |             ^^^^
+  41 |             <a
+  42 |                 href="https://github.com/bo7owers"
+  43 |                 target="_blank"
+SyntaxError: Unexpected closing tag "a". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (40:13)
+  38 |                     />
+  39 |                 </svg>
+> 40 |             </a>
+     |             ^^^^
+  41 |             <a
+  42 |                 href="https://github.com/bo7owers"
+  43 |                 target="_blank"
+	at u (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/parser-html.js:4:2233)
+	at Zl (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/parser-html.js:36:6398)
+	at gs (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/parser-html.js:36:7902)
+	at Object.parse (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/parser-html.js:36:8674)
+	at Object.parse (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:7331:23)
+	at coreFormat (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:8645:18)
+	at formatWithCursor2 (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:8837:18)
+	at /home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:37832:12
+	at Object.format (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/node_modules/prettier/index.js:37846:12)
+	at t.default.format (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/dist/extension.js:1:14731)
+	at async t.PrettierEditProvider.provideEdits (/home/bo7owers/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal/dist/extension.js:1:11417)
+	at async B.provideDocumentFormattingEdits (/snap/codium/289/usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:39719)
+["INFO" - 9:23:03 p.m.] Formatting completed in 7ms.
+["INFO" - 9:23:10 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:23:10 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:23:10 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:23:10 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:23:10 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:23:10 p.m.] Formatting completed in 27ms.
+["INFO" - 9:24:00 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:24:00 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:24:00 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:24:00 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:24:00 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:24:00 p.m.] Formatting completed in 28ms.
+["INFO" - 9:25:01 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:25:01 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:25:01 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:25:01 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:25:01 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:25:01 p.m.] Formatting completed in 28ms.
+["INFO" - 9:25:09 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:25:09 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:25:09 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:25:09 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:25:09 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:25:09 p.m.] Formatting completed in 29ms.
+["INFO" - 9:25:40 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:25:40 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:25:40 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:25:40 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:25:40 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:25:40 p.m.] Formatting completed in 27ms.
+["INFO" - 9:25:54 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:25:54 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:25:54 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:25:54 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:25:54 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:25:54 p.m.] Formatting completed in 29ms.
+["INFO" - 9:26:02 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:26:02 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:26:02 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:26:02 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:26:02 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:26:02 p.m.] Formatting completed in 28ms.
+["INFO" - 9:26:36 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:26:36 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:26:36 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:26:36 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:26:36 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:26:36 p.m.] Formatting completed in 31ms.
+["INFO" - 9:26:58 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:26:58 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:26:58 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:26:58 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:26:58 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:26:58 p.m.] Formatting completed in 21ms.
+["INFO" - 9:27:15 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:27:15 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:27:15 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:27:15 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:27:15 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:27:15 p.m.] Formatting completed in 24ms.
+["INFO" - 9:27:59 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:27:59 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:27:59 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:27:59 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:27:59 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:27:59 p.m.] Formatting completed in 36ms.
+["INFO" - 9:28:26 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:28:26 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:28:26 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:28:26 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:28:26 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:28:26 p.m.] Formatting completed in 31ms.
+["INFO" - 9:29:34 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue
+["INFO" - 9:29:34 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:29:34 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:29:34 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:29:34 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/Footer.vue",
+  "parser": "vue"
+}
+["INFO" - 9:29:34 p.m.] Formatting completed in 28ms.
+["INFO" - 9:31:04 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue
+["INFO" - 9:31:04 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:31:04 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:31:04 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:31:04 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue",
+  "parser": "vue"
+}
+["INFO" - 9:31:04 p.m.] Formatting completed in 14ms.
+["INFO" - 9:31:29 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue
+["INFO" - 9:31:29 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:31:29 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:31:29 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:31:29 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue",
+  "parser": "vue"
+}
+["INFO" - 9:31:29 p.m.] Formatting completed in 11ms.
+["INFO" - 9:31:50 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/Home.vue
+["INFO" - 9:31:50 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:31:50 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:31:50 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:31:50 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/Home.vue",
+  "parser": "vue"
+}
+["INFO" - 9:31:50 p.m.] Formatting completed in 15ms.
+["INFO" - 9:32:20 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue
+["INFO" - 9:32:20 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:32:20 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:32:20 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:32:20 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue",
+  "parser": "vue"
+}
+["INFO" - 9:32:20 p.m.] Formatting completed in 10ms.
+["INFO" - 9:32:36 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue
+["INFO" - 9:32:36 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:32:36 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:32:36 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:32:36 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue",
+  "parser": "vue"
+}
+["INFO" - 9:32:36 p.m.] Formatting completed in 10ms.
+["INFO" - 9:33:03 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue
+["INFO" - 9:33:03 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:33:03 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:33:03 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:33:03 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue",
+  "parser": "vue"
+}
+["INFO" - 9:33:03 p.m.] Formatting completed in 10ms.
+["INFO" - 9:33:11 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue
+["INFO" - 9:33:11 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:33:11 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:33:11 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:33:11 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue",
+  "parser": "vue"
+}
+["INFO" - 9:33:11 p.m.] Formatting completed in 9ms.
+["INFO" - 9:33:27 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/Home.vue
+["INFO" - 9:33:27 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:33:27 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:33:27 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:33:27 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/views/Home.vue",
+  "parser": "vue"
+}
+["INFO" - 9:33:27 p.m.] Formatting completed in 17ms.
+["INFO" - 9:33:34 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue
+["INFO" - 9:33:34 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:33:34 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:33:34 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:33:34 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue",
+  "parser": "vue"
+}
+["INFO" - 9:33:34 p.m.] Formatting completed in 11ms.
+["INFO" - 9:34:11 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue
+["INFO" - 9:34:11 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:34:11 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:34:11 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:34:11 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue",
+  "parser": "vue"
+}
+["INFO" - 9:34:11 p.m.] Formatting completed in 13ms.
+["INFO" - 9:34:38 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue
+["INFO" - 9:34:38 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:34:38 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:34:38 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:34:38 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue",
+  "parser": "vue"
+}
+["INFO" - 9:34:38 p.m.] Formatting completed in 11ms.
+["INFO" - 9:34:48 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue
+["INFO" - 9:34:48 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:34:48 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:34:48 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:34:48 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue",
+  "parser": "vue"
+}
+["INFO" - 9:34:48 p.m.] Formatting completed in 11ms.
+["INFO" - 9:35:08 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue
+["INFO" - 9:35:08 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:35:08 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:35:08 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:35:08 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue",
+  "parser": "vue"
+}
+["INFO" - 9:35:08 p.m.] Formatting completed in 13ms.
+["INFO" - 9:35:35 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue
+["INFO" - 9:35:35 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:35:35 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:35:35 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:35:35 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue",
+  "parser": "vue"
+}
+["INFO" - 9:35:35 p.m.] Formatting completed in 11ms.
+["INFO" - 9:36:51 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue
+["INFO" - 9:36:51 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:36:51 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:36:51 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:36:51 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue",
+  "parser": "vue"
+}
+["INFO" - 9:36:51 p.m.] Formatting completed in 9ms.
+["INFO" - 9:36:56 p.m.] Formatting file:///home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue
+["INFO" - 9:36:56 p.m.] Using ignore file (if present) at /home/bo7owers/Documents/websites/vite-apps/vue-portfolio/.prettierignore
+["INFO" - 9:36:56 p.m.] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+["INFO" - 9:36:56 p.m.] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:36:56 p.m.] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/bo7owers/Documents/websites/vite-apps/vue-portfolio/src/components/ExternalLink.vue",
+  "parser": "vue"
+}
+["INFO" - 9:36:56 p.m.] Formatting completed in 10ms.

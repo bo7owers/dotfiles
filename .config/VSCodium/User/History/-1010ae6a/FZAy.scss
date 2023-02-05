@@ -1,0 +1,16 @@
+@use '../mixins/breakpoints' as b;
+
+.container {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: 0.5fr 1fr 0.5fr;
+}
+
+.row {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+}
+.grid-span-2 {
+    column-span: 1 / 3;
+}

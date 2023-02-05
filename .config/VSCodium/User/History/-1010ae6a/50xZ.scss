@@ -1,0 +1,39 @@
+@use '../mixins/breakpoints' as b;
+
+.container {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: 0.5fr 1fr 0.5fr;
+
+    .row {
+        &-center {
+            grid-column: 1 / 4;
+            padding: 0.25rem 0.75rem;
+            @include b.breakpoint(small) {
+                grid-column: 2 / 3;
+            }
+        }
+
+        &-left {
+            grid-column: 1 / 4;
+            padding: 0.25rem 0.75rem;
+            @include b.breakpoint(small) {
+                grid-column: 3 / 4;
+            }
+        }
+        &-flex {
+            display: flex;
+            flex-flow: column wrap;
+            &-center {
+                align-items: center;
+            }
+        }
+    }
+
+    .grid-footer {
+        grid-column: 1 / 4;
+        @include b.breakpoint(xlarge) {
+            grid-column: 2 / 3;
+        }
+    }
+}

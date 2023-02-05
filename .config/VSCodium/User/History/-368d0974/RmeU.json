@@ -1,0 +1,11 @@
+{
+    "Hello": "Bonjour",
+    "home": "Accueil",
+    "about": "À propos",
+    "programming": "Programmation",
+    "contact": "Contactez-moi",
+    "homeHeading": "Home heading",
+    "aboutHeading": "About heading",
+    "programmingHeading": "Programming heading",
+    "ContactHeading": "Contact heading"
+}

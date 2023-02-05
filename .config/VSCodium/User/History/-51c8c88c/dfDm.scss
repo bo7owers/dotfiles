@@ -1,0 +1,21 @@
+@use '../vars/colors' as c;
+.skip-to-main {
+    background-color: c.$underline-pink;
+    color: c.$solid-black;
+    height: 30px;
+    top: 0;
+    left: 0;
+    padding: 8px;
+    position: absolute;
+    transform: translateY(-90%);
+    transition: transform 0.3s;
+
+    &:visited {
+        color: #000;
+    }
+
+    &:focus {
+        top: 0;
+        transform: translateY(0%);
+    }
+}

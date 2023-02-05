@@ -1,0 +1,21 @@
+<script setup lang="ts">
+defineProps<{
+    href: string
+    description: string
+    pageName: string
+}>()
+
+console.log(pageName)
+</script>
+<template>
+    <a
+        :href="href"
+        target="_blank"
+        rel="noopener noreferrer"
+        v-tippy="`Open ${pageName} in a new tab`"
+        aria-label="Open this link in a new tab"
+        >{{ description }}</a
+    >
+</template>
+
+<style lang="scss" scoped></style>
