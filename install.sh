@@ -1,4 +1,4 @@
-#! bin/bash
+#! /bin/bash
 
 # Install nix (multi-user install)
 # https://nixos.org/download.html#nix-install-linux
