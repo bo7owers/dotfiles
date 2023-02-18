@@ -1,9 +1,0 @@
-@use '../vars/colors' as c;
-::selection {
-    background-color: c.$highlight-bg;
-    color: c.$so-white;
-}
-
-body {
-    background: #fff;
-}

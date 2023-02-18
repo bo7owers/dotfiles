@@ -1,4 +1,0 @@
-2023-01-28 18:16:30.017 [info] update#setState idle
-2023-01-28 18:16:30.840 [info] Starting extension host with pid 28242 (fork() took 5 ms).
-2023-01-28 18:16:40.187 [info] Waiting for extension host with pid 28242 to exit.
-2023-01-28 18:16:40.194 [info] Extension host with pid 28242 exited with code: 0, signal: null.
