@@ -6,8 +6,6 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
 fi
 
 # Created by newuser for 5.9
-source ~/.dotfiles.config/zsh/powerlevel10k/powerlevel10k.zsh-theme
-source ~/.dotfiles/.config/zsh/powerlevel10k/powerlevel10k.zsh-theme
 source ~/.dotfiles/.config/zsh/powerlevel10k/powerlevel10k.zsh-theme
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
