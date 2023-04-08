@@ -1,6 +1,6 @@
 require("mason").setup()
 require("mason-lspconfig").setup({
-	ensure_installed = { "cssls", "cssmodules_ls", "denols", "astro", "bashls", "emmet_ls", "graphql", "html", "jsonls", "quick_lint_js", "tsserver", "sumneko_lua", "marksman", "intelephense", "rust_analyzer", "sqlls", "svelte", "tailwindcss", "volar", "lemminx", "yamlls" }
+	ensure_installed = { "cssls", "cssmodules_ls", "denols", "astro", "bashls", "emmet_ls", "graphql", "html", "jsonls", "quick_lint_js", "tsserver", "lua_ls", "marksman", "intelephense", "rust_analyzer", "sqlls", "svelte", "tailwindcss", "volar", "lemminx", "yamlls" }
 })
 
 local on_attach = function(_, _)
@@ -40,6 +40,6 @@ require("lspconfig").html.setup{
 require("lspconfig").jsonls.setup{
 	on_attach = on_attach
 }
-require("lspconfig").sumneko_lua.setup{
+require("lspconfig").lua_ls.setup{
 	on_attach = on_attach
 }
