@@ -31,12 +31,7 @@ local plugins = {
 		config = function() require("nvim-autopairs").setup {} end
 	}
 }
-  -- use {
-	-- "windwp/nvim-autopairs",
-    -- config = function() require("nvim-autopairs").setup {} end
-  -- }
-  -- }
-  --
+
 local opts = {}
 
 require("lazy").setup(plugins, opts)
