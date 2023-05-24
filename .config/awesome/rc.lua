@@ -562,3 +562,5 @@ end)
 client.connect_signal("focus", function(c) c.border_color = beautiful.border_focus end)
 client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_normal end)
 -- }}}
+-- Auto start
+awful.spawn.with_shell("feh --bg-fill ~/Pictures/Wallpapers/'01 - Hillside (Dusk) 4K.png'")
