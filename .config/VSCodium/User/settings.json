@@ -17,9 +17,6 @@
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 5000,
     "editor.wordWrap": "bounded",
-    "[rust]": {
-        "editor.defaultFormatter": "matklad.rust-analyzer"
-    },
     "editor.fontLigatures": true,
     "window.commandCenter": true,
     "explorer.confirmDragAndDrop": false,
