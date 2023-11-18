@@ -171,50 +171,51 @@ awful.screen.connect_for_each_screen(function(s)
     awful.tag({ "1", "2", "3", "4", "5", "6", "7", "8", "9" }, s, awful.layout.layouts[1])
 
     -- Create a promptbox for each screen
-    s.mypromptbox = awful.widget.prompt()
+    --s.mypromptbox = awful.widget.prompt()
     -- Create an imagebox widget which will contain an icon indicating which layout we're using.
     -- We need one layoutbox per screen.
-    s.mylayoutbox = awful.widget.layoutbox(s)
-    s.mylayoutbox:buttons(gears.table.join(
-                           awful.button({ }, 1, function () awful.layout.inc( 1) end),
-                           awful.button({ }, 3, function () awful.layout.inc(-1) end),
-                           awful.button({ }, 4, function () awful.layout.inc( 1) end),
-                           awful.button({ }, 5, function () awful.layout.inc(-1) end)))
+   -- s.mylayoutbox = awful.widget.layoutbox(s)
+   -- s.mylayoutbox:buttons(gears.table.join(
+       --                    awful.button({ }, 1, function () awful.layout.inc( 1) end),
+     --                      awful.button({ }, 3, function () awful.layout.inc(-1) end),
+         --                  awful.button({ }, 4, function () awful.layout.inc( 1) end),
+           --               awful.button({ }, 5, function () awful.layout.inc(-1) end)))
     -- Create a taglist widget
-    s.mytaglist = awful.widget.taglist {
-        screen  = s,
-        filter  = awful.widget.taglist.filter.all,
-        buttons = taglist_buttons
-    }
+    -- s.mytaglist = awful.widget.taglist {
+       -- screen  = s,
+        --filter  = awful.widget.taglist.filter.all,
+        --buttons = taglist_buttons
+   -- }
 
     -- Create a tasklist widget
-    s.mytasklist = awful.widget.tasklist {
-        screen  = s,
-        filter  = awful.widget.tasklist.filter.currenttags,
-        buttons = tasklist_buttons
-    }
+    --s.mytasklist = awful.widget.tasklist {
+      --  screen  = s,
+        --filter  = awful.widget.tasklist.filter.currenttags,
+        --buttons = tasklist_buttons
+   -- }
 
     -- Create the wibox
-    s.mywibox = awful.wibar({ position = "top", screen = s })
+    -- wibar black bg removed
+	 --s.mywibox = awful.wibar({ position = "top", screen = s })
 
     -- Add widgets to the wibox
-    s.mywibox:setup {
-        layout = wibox.layout.align.horizontal,
-        { -- Left widgets
-            layout = wibox.layout.fixed.horizontal,
-            mylauncher,
-            s.mytaglist,
-            s.mypromptbox,
-        },
-        s.mytasklist, -- Middle widget
-        { -- Right widgets
-            layout = wibox.layout.fixed.horizontal,
-            mykeyboardlayout,
-            wibox.widget.systray(),
-            mytextclock,
-            s.mylayoutbox,
-        },
-    }
+    --s.mywibox:setup {
+    --    layout = wibox.layout.align.horizontal,
+    --    { -- Left widgets
+    --        layout = wibox.layout.fixed.horizontal,
+    --        mylauncher,
+    --        s.mytaglist,
+    --        s.mypromptbox,
+    --    },
+    --    s.mytasklist, -- Middle widget
+    --    { -- Right widgets
+    --        layout = wibox.layout.fixed.horizontal,
+    --        mykeyboardlayout,
+    --        wibox.widget.systray(),
+    --        mytextclock,
+    --        s.mylayoutbox,
+    --    },
+   -- }
 end)
 -- }}}
 
@@ -311,16 +312,16 @@ globalkeys = gears.table.join(
 
     -- Prompt
 	awful.key({ modkey }, "r", function() awful.util.spawn('rofi -show drun') end, {description="run rofi", group="launcher"}),
-    awful.key({ modkey }, "x",
-              function ()
-                  awful.prompt.run {
-                    prompt       = "Run Lua code: ",
-                    textbox      = awful.screen.focused().mypromptbox.widget,
-                    exe_callback = awful.util.eval,
-                    history_path = awful.util.get_cache_dir() .. "/history_eval"
-                  }
-              end,
-              {description = "lua execute prompt", group = "awesome"}),
+   -- awful.key({ modkey }, "x",
+     --         function ()
+     --             awful.prompt.run {
+     --               prompt       = "Run Lua code: ",
+      --              textbox      = awful.screen.focused().mypromptbox.widget,
+       --             exe_callback = awful.util.eval,
+        --            history_path = awful.util.get_cache_dir() .. "/history_eval"
+       --           }
+        --      end,
+         --     {description = "lua execute prompt", group = "awesome"}),
     -- Menubar
     awful.key({ modkey }, "p", function() menubar.show() end,
               {description = "show the menubar", group = "launcher"})
@@ -558,9 +559,16 @@ end)
 
 client.connect_signal("focus", function(c) c.border_color = beautiful.border_focus end)
 client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_normal end)
--- }}}
+
+-- RT keyboard shortcuts
+-- browser
+awful.key({ modkey,           }, "b", function () awful.util.spawn("firefox") end,
+              {description = "open firefox", group = "rt"})
 -- add gap
 beautiful.useless_gap= 5
 -- Auto start
+-- awful.spawn.with_shell("killall -q polybar")
+awful.spawn.with_shell("~/.config/polybar/launch.sh")
+-- awful.spawn.with_shell("polybar left &")
 awful.spawn.with_shell("picom")
 awful.spawn.with_shell("feh --bg-fill ~/Pictures/Wallpapers/'01 - Hillside (Dusk) 4K.png'")
