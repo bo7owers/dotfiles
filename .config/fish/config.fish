@@ -18,5 +18,3 @@ alias gd='git branch -D'
 alias gb='git branch'
 alias gstt='git status'
 
-# run ssh-agent when terminal is launched
-eval (ssh-agent -c)
