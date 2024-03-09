@@ -1,6 +1,6 @@
 require("mason").setup()
 require("mason-lspconfig").setup({
-	ensure_installed = { "cssls", "cssmodules_ls", "denols", "astro", "bashls", "emmet_ls", "graphql", "html", "jsonls", "quick_lint_js", "tsserver", "lua_ls", "marksman", "intelephense", "rust_analyzer", "sqlls", "svelte", "tailwindcss", "volar", "lemminx", "yamlls" }
+	ensure_installed = { "cssls", "cssmodules_ls", "denols", "astro", "bashls", "emmet_ls", "graphql", "html", "jsonls", "quick_lint_js", "tsserver", "lua_ls", "marksman", "intelephense", "rust_analyzer", "sqlls", "svelte", "tailwindcss", "volar", "lemminx", "yamlls", "biome" }
 })
 
 local on_attach = function(_, _)
