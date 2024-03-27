@@ -12,9 +12,11 @@ alias gsa='git stage .'
 alias gc="git commit -m "
 alias gch='git checkout'
 alias gpsh='git push'
+alias gpsho='git push --set-upstream origin'
 alias gpll='git pull'
 alias gm='git merge'
 alias gd='git branch -D'
 alias gb='git branch'
 alias gstt='git status'
+alias gbch='git checkout -q -b'
 
