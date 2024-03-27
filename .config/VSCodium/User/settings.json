@@ -33,5 +33,6 @@
     "workbench.colorTheme": "Aura Soft Dark",
     "synthwave84.brightness": 0.45,
     "synthwave84.disableGlow": false,
-    "i18n-ally.displayLanguage": "fr"
+    "i18n-ally.displayLanguage": "fr",
+    "workbench.activityBar.location": "top"
 }
