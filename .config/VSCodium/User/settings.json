@@ -165,5 +165,9 @@
 	"editor.stickyScroll.enabled": true,
 	"workbench.editor.showTabs": "none",
 	"zenMode.showTabs": "none",
-	"workbench.colorTheme": "Catppuccin Frappé"
+	"workbench.colorTheme": "Catppuccin Frappé",
+	"[astro]": {
+		"editor.defaultFormatter": "astro-build.astro-vscode"
+	},
+	"workbench.iconTheme": "material-icon-theme"
 }
